@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\microsoft-learn\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {}
+    "D:\\Estudos\\pets-adocao\\Starter.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\microsoft-learn\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {
+    "D:\\Estudos\\pets-adocao\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\microsoft-learn\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "D:\\Estudos\\pets-adocao\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "D:\\Estudos\\microsoft-learn\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+        "projectPath": "D:\\Estudos\\pets-adocao\\Starter.csproj",
         "packagesPath": "C:\\Users\\viviane.silva\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\microsoft-learn\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\obj\\",
+        "outputPath": "D:\\Estudos\\pets-adocao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\viviane.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",

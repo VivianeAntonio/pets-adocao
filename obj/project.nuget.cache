@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/1bE2OuADZLxACXG5K6F6x0iMkAQXwKy8iAqED+dV0wBHVLwxSOtt+ctREc3pj3F71JjbW8ZuW0PtjmZpNA1tA==",
+  "dgSpecHash": "NqWg0qNm7qQRqqFpkeg4L6+U94tbnQnuByXNzIp6jXI2YOZF9aZSynJxxeYNUp1DUFBq0KxjTi+EQkdJjQKSiQ==",
   "success": true,
-  "projectFilePath": "D:\\Estudos\\microsoft-learn\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+  "projectFilePath": "D:\\Estudos\\pets-adocao\\Starter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
