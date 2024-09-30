@@ -28,7 +28,7 @@ for (int i = 0; i < maxPets; i++)
             animalPhysicalDescription = "medium sized cream colored female golden retriever weighing about 65 pounds. housebroken.";
             animalPersonalityDescription = "loves to have her belly rubbed and likes to chase her tail. gives lots of kisses.";
             animalNickname = "lola";
-            suggestedDonation = "85.00";
+            suggestedDonation = "85,00";
             break;
         case 1:
             animalSpecies = "dog";
@@ -37,7 +37,7 @@ for (int i = 0; i < maxPets; i++)
             animalPhysicalDescription = "large reddish-brown male golden retriever weighing about 85 pounds. housebroken.";
             animalPersonalityDescription = "loves to have his ears rubbed when he greets you at the door, or at any time! loves to lean-in and give doggy hugs.";
             animalNickname = "loki";
-            suggestedDonation = "49.99";
+            suggestedDonation = "49,99";
             break;
         case 2:
             animalSpecies = "cat";
@@ -46,7 +46,7 @@ for (int i = 0; i < maxPets; i++)
             animalPhysicalDescription = "small white female weighing about 8 pounds. litter box trained.";
             animalPersonalityDescription = "friendly";
             animalNickname = "Puss";
-            suggestedDonation = "40.00";
+            suggestedDonation = "40,00";
             break;
         case 3:
             animalSpecies = "cat";
@@ -114,7 +114,7 @@ do
                 if (ourAnimals[i, 0] != "ID #: ")
                 {
                     Console.WriteLine();
-                    for (int j = 0; j < 6; j++)
+                    for (int j = 0; j < 7; j++)
                     {
                         Console.WriteLine(ourAnimals[i, j]);
                     }
